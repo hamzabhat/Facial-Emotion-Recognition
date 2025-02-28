@@ -1,0 +1,4 @@
+# Ignore model weights and large files
+*.pt
+*.keras 
+*.h5
